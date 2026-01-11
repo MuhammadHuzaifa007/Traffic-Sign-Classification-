@@ -1,4 +1,4 @@
-Width,Height,Roi.X1,Roi.Y1,Roi.X2,Roi.Y2,ClassId,Path
+Width of image,Height of image,Roi.X1,Roi.Y1,Roi.X2,Roi.Y2,ClassId,Path
 53,54,6,5,48,49,16,Test/00000.png
 42,45,5,5,36,40,1,Test/00001.png
 48,52,6,6,43,47,38,Test/00002.png
